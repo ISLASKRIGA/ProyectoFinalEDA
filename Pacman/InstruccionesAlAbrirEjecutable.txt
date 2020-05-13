@@ -1,0 +1,2 @@
+Instrucciones Pacman
+ *Solo pulsar varias veces las flechas hacia donde te quieras mover. 

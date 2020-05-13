@@ -1,0 +1,3 @@
+Instrucciones para retro:
+
+Salir con alt+f4
