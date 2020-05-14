@@ -24,7 +24,7 @@ Aplique diferentes partes de Estructuras de datos en estos juegos.
 
 ## Referencias
 
-############################################################################################### ________________________________________________________________________________________________
+### ________________________________________________________________________________________________
 
 ###### [PACMAN](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/Pacman)
 Juego de pacman
