@@ -6,7 +6,25 @@ Este proyecto va orientado a un nicho selecto de la población que esta interesa
 ##                                         Introducción
 Todo lo que sube baja. or lo tanto creo que lo que está abajo puede subir. Este proyecto es para enseñarles a las generaciones nuevas como estos juegos tan simples pueden a llegar a ser tan divertidos, y divertirse con sus amigos. Se puede aplicar en las escuelas como incentivo a que sigan estudiando.
 ##                                          Desarrollo 
+Decidí hacer este proyecto con unity y con C# ya que es un lenguaje muy aclamado en la industria y aparte es sencillo de comprender.
+Aplique diferentes partes de Estructuras de datos en estos juegos.
 
+### Algoritmo
+
+### Diagrama de flujo
+
+### Pseudocódigo
+
+### Codigo
+
+
+## Resultados
+
+## Conclusiones
+
+## Referencias
+
+_____________________________________________________________________________________________________
 
 ## [PACMAN](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/Pacman)
 Juego de pacman
