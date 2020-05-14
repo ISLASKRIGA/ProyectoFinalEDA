@@ -1,7 +1,5 @@
  # THUMB. JUEGOS ARCADE
-
-Una introduccion al analisis de datos con R y R Studio. 
-
+## OBJETIVO
 El análisis de datos con R ha surgido como un enfoque muy importante para empresas de todo tipo, desde el mundo de las finanzas al de los videojuegos pasando por tiendas online o incluso los deportes. R permite que incluso aquellos que tienen comprensión intuitiva de los conceptos subyacentes, sin un trasfondo matemático profundo, den rienda suelta a análisis potentes y detallados de sus datos.
 
 Este curso te mostrará cómo puedes poner sus habilidades de análisis de datos en R para uso práctico, con recetas que atienden las tareas básicas y avanzadas de análisis de datos. 
