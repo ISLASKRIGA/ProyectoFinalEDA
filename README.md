@@ -9,13 +9,13 @@ Todo lo que sube baja. or lo tanto creo que lo que está abajo puede subir. Este
 Decidí hacer este proyecto con unity y con C# ya que es un lenguaje muy aclamado en la industria y aparte es sencillo de comprender.
 Aplique diferentes partes de Estructuras de datos en estos juegos.
 
-### Algoritmo
+##### Algoritmo
 
-### Diagrama de flujo
+##### Diagrama de flujo
 
-### Pseudocódigo
+##### Pseudocódigo
 
-### Codigo
+##### Codigo
 
 
 ## Resultados
@@ -26,21 +26,21 @@ Aplique diferentes partes de Estructuras de datos en estos juegos.
 
 _____________________________________________________________________________________________________
 
-## [PACMAN](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/Pacman)
+###### [PACMAN](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/Pacman)
 Juego de pacman
 
-## [Pacman ejecutable](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/Pacman/Juego%20Ejecutable)
+###### [Pacman ejecutable](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/Pacman/Juego%20Ejecutable)
 Descargar todos los archivos para que se pueda ejecutar
 
-## [MarioBJ](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/MarioB)
+###### [MarioBJ](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/MarioB)
 Juego tipo MarioBros
 
-## [MarioBj ejecutable](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/MarioB/JuegoEjecutable)
+###### [MarioBj ejecutable](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/MarioB/JuegoEjecutable)
 Descargar todos los archivos para que se pueda ejecutar
 
-## [Juego retro](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/Retro)
+###### [Juego retro](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/Retro)
 Juego que contiene Pong, buscaminas y arknoid
 
-## [Juego retro ejecutable](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/Retro/JuegoEjecutable)
+###### [Juego retro ejecutable](https://github.com/ISLASKRIGA/ProyectoFinalEDA/tree/master/Retro/JuegoEjecutable)
 Descargar todos los archivos para que se pueda ejecutar
 
